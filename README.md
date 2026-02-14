@@ -132,3 +132,6 @@ sns.pairplot(df)
 
 # RESULT
 Thus the data analysis has been implemented succesfully.
+
+<img width="677" height="110" alt="Screenshot 2026-01-31 135647" src="https://github.com/user-attachments/assets/4a2cfb5f-4d10-442a-9a7b-556c9a9fdd2e" />
+
